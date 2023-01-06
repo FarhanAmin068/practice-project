@@ -1,0 +1,200 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans", sans-serif;
+}
+.btn-primary {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 30px;
+  padding: 18px 45px; /* 18->top down ar 35->left right*/
+  height: 100px;
+  background: orangered;
+  border-radius: 5px;
+  margin-top: 30px;
+}
+.header {
+  background-color: #ffffff;
+  background-image: url("../images/donation1.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/*Intro*/
+
+nav {
+  text-align: center;
+}
+
+.begin-heading {
+  color: white;
+  font-size: 90px;
+  font-weight: 700;
+  padding: 150px 0px;
+}
+.beg2-heading {
+  color: white;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+
+/*donate today*/
+.secall {
+  background: white;
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+}
+.head1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: black;
+  margin-bottom: 30px;
+}
+.head2 {
+  font-size: 30px;
+  color: grey;
+  margin-bottom: 40px;
+}
+.money {
+  background: #ffffff;
+  display: flex;
+  justify-content: space-around;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 60px;
+  /* box-shadow: 50px 6px 50px rgba(0, 0, 0, 0.06); */
+}
+.amount {
+  font-size: 60px;
+  border: 1px solid #bfbfbf;
+  background-color: lightgrey;
+  color: black;
+  padding: 30px 30px;
+}
+.other {
+  color: gray;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.extra {
+  font-size: 60px;
+  border: 3px solid orangered;
+  background-color: lightgrey;
+  color: orangered;
+  padding: 30px 30px;
+}
+/*Our donate plan*/
+.content-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  box-shadow: 100px 100px 100px rgba(0, 0, 0, 0.06);
+  margin-bottom: 150px;
+}
+.content-1 {
+
+  height: 500px;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: lightgray;
+}
+.content-2 {
+
+  height: 500px;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: pink;
+}
+.content-3 {
+ 
+  height: 500px;
+  border-radius: 5px;
+  padding: 30px;
+  background-color: lightyellow;
+}
+.content-head {
+  font-size: 50px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+.content-para {
+  color: gray;
+  padding-top: 20px;
+  font-size: 30px;
+}
+/*affected people section*/
+.people1{
+  display:flex;
+  justify-content: space-between;
+ 
+}
+.hp1{
+  margin-left: 300px;
+  margin-right: 100px;
+  margin-bottom: 200px;
+}
+.ip1{
+  margin-left: 40px;
+  margin-right: 300px;
+  margin-bottom: 200px;
+}
+.people2{
+  display:flex;
+  justify-content: space-between;
+}
+.ip2{
+  margin-left: 300px;
+  margin-right: 100px;
+}
+.hp2{
+  margin-left: 40px;
+  margin-right: 300px;
+}
+/*contact part*/
+.contact1{
+  margin-top: 300px;
+  
+}
+.contact2{
+  display: flex;
+  justify-content:space-around;
+  background: lightyellow;
+
+  
+}
+.f1{
+  margin-top: 70px;
+  margin-left: 800px;
+  height:200px;
+
+}
+.btn{
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 30px;
+  padding: 18px 45px; /* 18->top down ar 35->left right*/
+  height: 100px;
+  background: orangered;
+  border-radius: 5px;
+  margin-top: 30px;
+  margin-right: 500px;
+}
+/*Outro*/
+.outro{
+background-color: black;
+text-align: center;
+}
+.fh1{
+color: orangered;
+padding-top:200px;
+font-size: 50px;
+}
+.fh2{
+  padding-bottom: 50px;
+  font-size: 20px;
+color: #ffffff;
+}
+
+
